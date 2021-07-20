@@ -1,0 +1,19 @@
+#google_lens{
+    height: 200px;
+    width: 200px;
+}
+.heading p{
+    font-size: 40px;;
+}
+#mobile_net{
+    height: 300px;
+    width: 500px;
+}
+.heading{
+    width: 100%;
+    text-align: left;
+}
+.first_img,.sec_img,.third_img{
+    text-align: right;
+    margin-left: 900px;
+}
